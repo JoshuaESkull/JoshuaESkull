@@ -1,3 +1,1 @@
-My name is Josh, and I'm a student from Australia. I enjoy coding because it is, at its core, problem solving. The applications of this problem solving range far and wide,
-so being part of it is a pretty incredible thing. I'm interested in the intersection of finance and programming, data science, and algorithms.
-
+My name is Joshua Skull. I'm a student studying Mathematics and Computer Science at the University of Queensland. My primary interests are data science and analytics, algorithmic trading, and machine learning, and the intersections of these fields. 
